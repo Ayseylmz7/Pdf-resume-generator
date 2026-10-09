@@ -23,4 +23,4 @@ Projede Single Responsibility (Tek Sorumluluk) ve Encapsulation (Kapsülleme) il
 2. Bağımlılıkların (`pom.xml`) yüklenmesini bekleyin.
 3. Kök dizinde `profile.png` dosyasının bulunduğundan emin olun.
 4. `Main.java` dosyasını çalıştırın. Çıktı kök dizine `Ozgecmis.pdf` olarak kaydedilecektir.
-5.
+
